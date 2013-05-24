@@ -1,4 +1,4 @@
-plsql
+PL/SQL
 =====
 
-Referente a linguagem PL/SQL
+Repositório de scripts referente a linguagem PL/SQL
